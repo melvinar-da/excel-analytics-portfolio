@@ -6,6 +6,11 @@ A curated collection of Excel-based data projects demonstrating my data cleaning
 
 ## 📊 Featured Project: Budget Analysis Dashboard
 
+This Excel workbook includes:
+- ✅ Budget vs. Actual Variance Tracker
+- ✅ Rolling 3-Month Cash Flow Forecast
+- ✅ Interactive Departmental Budget Template
+  
 ### 🔍 Overview
 This interactive dashboard was created in Excel to analyze and visualize personal spending over multiple months. It includes automated data cleaning, category mapping, and a dynamic reporting interface using PivotTables and PivotCharts — all powered by Excel’s built-in data tools.
 
