@@ -28,7 +28,8 @@ This interactive dashboard was created in Excel to analyze and visualize persona
 - KPI Summary Cards (Total Spending, Avg. Spend per Vendor, etc.)
 
 ### 📂 File Included
-- `Budget_Dashboard_Final.xlsx`: Fully functional Excel dashboard with all features
+- 'Budget_Dashboard_Intro_Analysis.xlsx`: Fully functional Excel dashboard
+- 'Excel_Budget_Tools_Final.xlsx`: Adds 3 key analytical one workbook enchancing Budget Analysis Capabilities 
 
 ---
 
